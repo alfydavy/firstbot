@@ -1,5 +1,3 @@
-A chat bot made with HowdyAi
-----------------------------
 
 # FirstBot
 This is a demo AI chat Bot; it is created on the Howdyai SDK .
